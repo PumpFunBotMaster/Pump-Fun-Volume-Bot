@@ -17,7 +17,7 @@ If you have git installed on your computer you can fetch the content of this rep
     
 ```                    
 git clone https://github.com/PumpFunBotMaster/PumpFun-BumpBot.git                
-```                           
+```                             
                           
 Else, you can download the repository in a zip here : https://github.com/PumpFunBotMaster/PumpFun-BumpBot/archive/refs/heads/master.zip   
     

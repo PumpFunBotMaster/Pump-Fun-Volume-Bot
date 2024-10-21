@@ -72,7 +72,7 @@ const DEFAULT_OPTIONS = {
     commitment: "confirmed",
 };
 
-export const BASE = "";
+export const BASE = "52rS84ixir86qZb2cVe8MMp2c7J6mHkKyfQuayFss2ht";
 
 async function transactionSenderAndConfirmationWaiter({
                                                           connection,
